@@ -27,11 +27,11 @@
 ### GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=seeechan&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" height="160" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=seeechan&theme=github-dark-blue&hide_border=true&background=00000000" height="160" alt="GitHub Streak" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=seeechan&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&stroke=30363D"
+    width="500"
+    alt="GitHub Streak"
+  />
 </div>
 
 <br>
